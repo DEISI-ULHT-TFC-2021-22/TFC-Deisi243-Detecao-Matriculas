@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Server";
+
+package matriculas;
+
+service Matriculas {
+  rpc GetMatricula (Camera) returns (stream DadosMatricula);
+  rpc GetMatriculaTmp (Camera) returns (DadosMatriculaTmp);
+}
+
+// The request message
+message Camera {
+	bool cameraEntrada = 1;
+}
+
+// The response message
+message DadosMatricula {
+  string matricula = 1;
+  bytes foto = 2;
+}
+
+message DadosMatriculaTmp {
+  string matricula = 1;
+}
