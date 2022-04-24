@@ -18,4 +18,8 @@ Guia de Instalação:
 
 6.Selecionar a pasta que acabou de criar
 
-7.
+7.Ao fim de o Visual Studio carregar todos os ficheiros, selecionar o ficheiro "TFC_Matriculas.py"
+
+8.Iniciar o programa no botão Run/Iniciar
+
+Observações: Para ver as diferentes matrículas detetadas, clique no botão "Q"
