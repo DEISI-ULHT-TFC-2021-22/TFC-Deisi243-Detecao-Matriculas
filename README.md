@@ -12,4 +12,10 @@ Guia de Instalação:
 
 3.Descarregar os ficheiros do Github
 
-4.Colocar na pasta 
+4.Colocar todos os ficheiros numa pasta única
+
+5.Iniciar o Visual Studio 2022 e escolher a opção "Abrir uma pasta local"
+
+6.Selecionar a pasta que acabou de criar
+
+7.
