@@ -14,21 +14,21 @@ Guia de Instalação:
 
 4.Em seguida realizar o seguinte processo:
 
--> Ir às Propriedades do Sistema
+  -> Ir às Propriedades do Sistema
 
--> Clicar no botão Avançadas
+  -> Clicar no botão Avançadas
 
--> Clicar no botão Variáveis de ambiente
+  -> Clicar no botão Variáveis de ambiente
 
--> Clicar no botão Variáveis de sistema
+  -> Clicar no botão Variáveis de sistema
 
--> Clicar no PATH
+  -> Clicar no PATH
 
--> Clicar no botão Editar
+  -> Clicar no botão Editar
 
--> Clicar no botão Novo
+  -> Clicar no botão Novo
 
--> Copiar o seguinte caminho: C:\Users\<user>\AppData\Local\Programs\Python\Python310 e carregar no botão Aplicar
+  -> Copiar o seguinte caminho: C:\Users\<user>\AppData\Local\Programs\Python\Python310 e carregar no botão Aplicar
 
 5. No Visual Studio Code abrir um novo terminal e copiar e executar o seguinte comando: py -m pip install -r requirements.txt
 
@@ -36,23 +36,23 @@ Guia de Instalação:
 
 7.Em seguida realizar o seguinte processo:
 
--> Na pasta do TFC clicar com o botão direito na subpasta dataset
+  -> Na pasta do TFC clicar com o botão direito na subpasta dataset
 
--> Clicar no botão Propriedades
+  -> Clicar no botão Propriedades
 
--> Clicar no botão Partilhar
+  -> Clicar no botão Partilhar
 
--> Clicar no botão Partilha Avançada
+  -> Clicar no botão Partilha Avançada
 
--> No campo Nome da matrícula escrever o seguinte: dataset
+  -> No campo Nome da matrícula escrever o seguinte: dataset
 
--> Nas Permissões, permitir o controlo total e aplicar
+  -> Nas Permissões, permitir o controlo total e aplicar
 
--> Clicar no botão Ok
+  -> Clicar no botão Ok
 
--> Clicar no botão Aplicar
+  -> Clicar no botão Aplicar
 
--> Clicar no botão Ok
+  -> Clicar no botão Ok
 
 
 
