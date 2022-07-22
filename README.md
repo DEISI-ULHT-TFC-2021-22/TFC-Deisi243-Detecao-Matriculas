@@ -2,6 +2,10 @@
 
 Link video Youtube: 
 
+Link do repositório do Backend: https://github.com/DEISI-ULHT-TFC-2021-22/TFC-Backend
+
+Link do repositório do Frontend: https://github.com/DEISI-ULHT-TFC-2021-22/ParqueLusofona_Frontend
+
 Link para o TFC: https://drive.google.com/file/d/1jxEMJKlXNUdvHAFGqHVH1uAd_wgWhILh/view?usp=sharing
 
 Guia de Instalação:
